@@ -4,11 +4,18 @@
  * and open the template in the editor.
  */
 package sisfosekolah;
-
+import Guru;
+import Siswa;
 /**
  *
  * @author nisamauliaazahra
  */
 public class Akun {
+    String username;
+    String password;
+    
+    public String getUsername() {
+        return username;
+    }
     
 }
